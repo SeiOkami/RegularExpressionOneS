@@ -5,4 +5,5 @@
 
 Если есть какие-то интересные замечания по регулярным выражениям самой платформы 1С, то добавляйте комментарии здесь: https://github.com/SeiOkami/RegularExpressionOneS/issues/1
 
-![image](https://github.com/SeiOkami/RegularExpressionOneS/assets/42138875/5791de20-ec5c-4e95-9d62-1c5fd3629185)
+![image](https://github.com/SeiOkami/RegularExpressionOneS/assets/42138875/945188d3-06d3-4bb5-9662-2dd7ad1ccaf5)
+
